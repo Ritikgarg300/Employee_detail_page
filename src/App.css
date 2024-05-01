@@ -1,0 +1,5 @@
+/* write your css here */
+.clip-custom{
+    clip-path: polygon(0 0, 100% 0, 100% 35%, 0% 40%);
+
+}
